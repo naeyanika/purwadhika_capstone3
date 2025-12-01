@@ -574,6 +574,7 @@ Capstone Project/
 - **XGBoost Documentation:** [https://xgboost.readthedocs.io/](https://xgboost.readthedocs.io/)
 - **Scikit-learn:** [https://scikit-learn.org/](https://scikit-learn.org/)
 - **Streamlit Deployment:** [https://bikeshare-pwdk.streamlit.app/](https://bikeshare-pwdk.streamlit.app/)
+- **Streamlit Github:** [https://github.com/naeyanika/bikeshare](https://github.com/naeyanika/bikeshare)
 
 ---
 
