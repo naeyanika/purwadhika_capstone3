@@ -558,6 +558,7 @@ print(f"Predicted demand: {prediction[0]:.0f} bikes")
 ```
 Capstone Project/
 ├── Data/
+│   ├── bike_sharing_model.pkl              # Models machine learning
 │   └── data_bike_sharing.csv               # Dataset (downloaded via gdown)
 ├── Presentation/
 │   └── BIKE SHARING DEMAND PREDICTION.pdf  # Presentation slides
