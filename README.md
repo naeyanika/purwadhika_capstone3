@@ -556,22 +556,14 @@ print(f"Predicted demand: {prediction[0]:.0f} bikes")
 ## Project Structure
 
 ```
-<<<<<<< HEAD
 Capstone Project/
 ├── Data/
-│   ├── bike sharing.ipynb                  # Main Jupyter notebook
 │   └── data_bike_sharing.csv               # Dataset (downloaded via gdown)
 ├── Presentation/
 │   └── BIKE SHARING DEMAND PREDICTION.pdf  # Presentation slides
-├── capital-bikeshare.png                   # This file
+├── bike sharing.ipynb                      # Main Jupyter notebook
+├── capital-bikeshare.png                   # Official Icon Bikeshare
 └── README.md                               # This file
-=======
-bike sharing.ipynb           # Main Jupyter notebook
-data_bike_sharing.csv        # Dataset (downloaded via gdown)
-README.md                    # This file
-Presentation
-    └── BIKE SHARING DEMAND PREDICTION.pdf  # Presentation slides
->>>>>>> db8444991f2cd4e801df5d48010d7d3a709f5c40
 ```
 
 ---
@@ -581,10 +573,7 @@ Presentation
 - **Dataset Source:** [Capital Bikeshare System Data](https://capitalbikeshare.com/system-data)
 - **XGBoost Documentation:** [https://xgboost.readthedocs.io/](https://xgboost.readthedocs.io/)
 - **Scikit-learn:** [https://scikit-learn.org/](https://scikit-learn.org/)
-<<<<<<< HEAD
 - **Streamlit Deployment:** [https://bikeshare-pwdk.streamlit.app/](https://bikeshare-pwdk.streamlit.app/)
-=======
->>>>>>> db8444991f2cd4e801df5d48010d7d3a709f5c40
 
 ---
 
@@ -607,11 +596,8 @@ This project is part of the Purwadhika Capstone Project Module 3.
 For questions or feedback:
 
 - Email: naeyanika@gmail.com
-<<<<<<< HEAD
 - LinkedIn: https://www.linkedin.com/in/naeyanika/
-=======
 - LinkedIn: https://linked.in/naeyanika
->>>>>>> db8444991f2cd4e801df5d48010d7d3a709f5c40
 - GitHub: https://github.com/naeyanika
 
 ---
